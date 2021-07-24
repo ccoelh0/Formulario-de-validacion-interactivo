@@ -1,4 +1,4 @@
-# Formulario-de-validacion-interactivo
+# Formulario de validacion interactivo
 Formulario de validacion interactivo
 
 Este es un formulario de validacion que es interactivo. 
