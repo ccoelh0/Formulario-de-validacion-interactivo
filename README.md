@@ -12,7 +12,7 @@ Los inputs estan validados para que solo se puedan poner valores concretos:
 *Nombre: solo letras
 
 
-*Expiracion: mes y ano mediante options. 
+*Expiracion: mes y año mediante options. 
 
 
 *CCV: solo numeros 
