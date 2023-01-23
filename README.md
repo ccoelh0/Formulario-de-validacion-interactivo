@@ -18,5 +18,3 @@ Los inputs estan validados para que solo se puedan poner valores concretos:
 *CCV: solo numeros 
 
 Los datos ingresados no se guardan en ninguna base de datos. 
-
-Idea de Falcon Master.
